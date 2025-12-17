@@ -58,29 +58,18 @@ ex :
 
 Selecting elements using:
 
-querySelector()
-
-querySelectorAll()
-
-Handling form submit events using addEventListener
-
-Preventing page reload with event.preventDefault()
-
-Creating elements dynamically using:
-
-document.createElement()
-
-Building UI using:
-
-appendChild()
-
-classList.add()
-
-Setting attributes dynamically (setAttribute)
-
-Resetting form inputs programmatically
-
-Basic UI structuring and styling
+ - querySelector()
+ - querySelectorAll()
+ - Handling form submit events using addEventListener
+ - Preventing page reload with event.preventDefault()
+ - Creating elements dynamically using:
+ - document.createElement()
+ - Building UI using:
+ - appendChild()
+ - classList.add()
+ - Setting attributes dynamically (setAttribute)
+ - Resetting form inputs programmatically
+ - Basic UI structuring and styling
 
 ## images
 ![alt text](<img1.png>)
