@@ -5,12 +5,6 @@ This project helps beginners understand **DOM manipulation**, **event handling**
 
 ---
 
-## 🚀 Live Preview
-*(Optional: Add your GitHub Pages link here)*  
-👉 https://your-username.github.io/profile-card-generator/
-
----
-
 ## 📌 Features
 
 - Create a profile card dynamically using form inputs
